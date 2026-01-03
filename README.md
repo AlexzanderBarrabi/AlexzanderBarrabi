@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Alex Barrabi! 🙋‍♂️  </h1>
 
-<!--
-**AlexzanderBarrabi/AlexzanderBarrabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab](https://github.com/AlexzanderBarrabi/Active-Directory-Home-Lab)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📃 Certifications: </h2>
+
+  <img width="300" height="300" alt="comptia certifcation" src="https://github.com/user-attachments/assets/4e52e56c-e711-4d22-9a26-39eedf7e5e8d" />
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alexzander-barrabi/
